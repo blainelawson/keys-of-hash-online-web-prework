@@ -2,7 +2,7 @@ class Hash
   def keys_of(arguments)
     array = Array.new
     
-    array[arguments] = "red-footed tortoise"
+    array[argument = "red-footed tortoise"
 
 
   end
