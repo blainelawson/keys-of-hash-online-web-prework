@@ -5,5 +5,7 @@ class Hash
     array = {
     "Panama": "red-footed tortoise"
     }
+    
+    array
   end
 end
