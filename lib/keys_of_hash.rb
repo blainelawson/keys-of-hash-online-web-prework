@@ -5,7 +5,6 @@ class Hash
     
     
     self.map do |key, values|
-      binding.pry  
       if arguments.include?(values) 
         key
       end
