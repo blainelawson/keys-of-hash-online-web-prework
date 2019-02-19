@@ -5,7 +5,7 @@ class Hash
     
     
     self.map do |key, values|
-return key if arguments.include?(values) 
+      if arguments.include?(values) 
         key
       end
     end
