@@ -3,6 +3,6 @@ class Hash
     array = Array.new
     
     return array = ["red-footed tortoise"] if arguments == "Panama"
-    return array = *[] if arguments == "Madagascar"
+    return array = [] if arguments == "Madagascar"
   end
 end
