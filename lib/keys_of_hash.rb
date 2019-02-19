@@ -6,6 +6,7 @@ class Hash
     
     self.map do |key, values|
       binding.pry  
+      
     end
   end
 end
