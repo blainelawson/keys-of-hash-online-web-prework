@@ -8,6 +8,6 @@ class Hash
       if arguments.include?(values) 
         key
       end
-    end
+    end.compact
   end
 end
